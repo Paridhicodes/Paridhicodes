@@ -65,7 +65,9 @@
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/paridhi-jain02/"><img src="https://img.shields.io/badge/-paridhijain__02-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:paridhijain0201@gmail.com"><img src="https://img.shields.io/badge/-paridhijain02@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/paridhijain_02"><img src="https://img.shields.io/badge/-@paridhijain__02-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/paridhijain_02/"><img src="https://img.shields.io/badge/-@paridhijain__02-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
 <!-- <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 <!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 <!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->

@@ -9,12 +9,13 @@
 💡 &nbsp;I like to explore new technologies, develop quick hacks and collaborate on projects.\
 🎓 &nbsp;I'm currently pursuing Bachelors of Technology at Indira Gandhi Delhi Technical University for Women.\
 🌱 &nbsp;I'm a Flutter Developer and intermediately trained in Web Development technologies.\
-💬 &nbsp;I am currently trying my hands in Machine Learning and Cyber Security.\
 ✍️ &nbsp;In my free time, I pursue reading and painting as hobbies.\
 ✉️ &nbsp;You can shoot me an email at paridhijain0201@gmail.com! I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
+<!-- 💬 &nbsp;I am currently trying my hands in Machine Learning and Cyber Security.\ -->
 <!-- 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
+
 
 ### 🛠 &nbsp;Tech Stack
 

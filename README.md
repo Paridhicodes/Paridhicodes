@@ -7,7 +7,7 @@
 ### 👩🏻‍💻&nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies, develop quick hacks and collaborate on projects.\
-🎓 &nbsp;I'm currently pursuing Bachelors of Technology at Indira Gandhi Delhi Technical University for Women.\
+🎓 &nbsp;I have completed my Bachelors of Technology from Indira Gandhi Delhi Technical University for Women.\
 🌱 &nbsp;I'm a Flutter Developer and intermediately trained in Web Development technologies.\
 ✍️ &nbsp;In my free time, I pursue reading and painting as hobbies.\
 ✉️ &nbsp;You can shoot me an email at paridhijain0201@gmail.com! I'll try to respond as soon as I can.
